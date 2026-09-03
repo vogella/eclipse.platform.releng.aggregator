@@ -4,8 +4,8 @@
   branch = master
 [submodule "eclipse.jdt.core"]
   path = eclipse.jdt.core
-  url = https://github.com/eclipse-jdt/eclipse.jdt.core.git
-  branch = master
+  url = https://github.com/vogella/eclipse.jdt.core.git
+  branch = vogella
 [submodule "eclipse.jdt.core.binaries"]
   path = eclipse.jdt.core.binaries
   url = https://github.com/eclipse-jdt/eclipse.jdt.core.binaries.git
@@ -16,8 +16,8 @@
   branch = master
 [submodule "eclipse.jdt.ui"]
   path = eclipse.jdt.ui
-  url = https://github.com/eclipse-jdt/eclipse.jdt.ui.git
-  branch = master
+  url = https://github.com/vogella/eclipse.jdt.ui.git
+  branch = vogella
 [submodule "eclipse.pde"]
   path = eclipse.pde
   url = https://github.com/eclipse-pde/eclipse.pde.git
